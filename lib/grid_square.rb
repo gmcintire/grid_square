@@ -1,6 +1,6 @@
-#require 'location'
-#require 'radix_enumerator'
-#require 'string_ext'
+require 'location'
+require 'radix_enumerator'
+require 'string_ext'
 
 class GridSquare
   attr_reader :grid_reference, :origin
