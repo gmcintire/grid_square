@@ -1,4 +1,5 @@
 language: ruby
+script: "rspec"
 rvm:
   - 1.9.3
   - ruby-head
@@ -6,4 +7,3 @@ rvm:
   - rbx-19mode
 before_install:
   - gem install bundler
-
