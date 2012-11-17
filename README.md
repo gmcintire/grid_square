@@ -2,6 +2,8 @@
 
 Calculate between GridSquare references and latitude/longitude.
 
+[![Build Status](https://secure.travis-ci.org/gmcintire/grid_square.png?branch=master)](https://travis-ci.org/gmcintire/grid_square)
+
 ```
 grid = GridSquare.new "DN40bi"
 
