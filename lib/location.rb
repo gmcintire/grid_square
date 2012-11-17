@@ -1,4 +1,4 @@
-module GridSquare
+class GridSquare
   class Location
     attr_accessor :longitude, :latitude
     def initialize(longitude, latitude)

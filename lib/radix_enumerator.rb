@@ -1,4 +1,4 @@
-module GridSquare
+class GridSquare
   class RadixEnumerator
     def next
       if @enum.nil?
