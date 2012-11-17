@@ -2,7 +2,7 @@ require 'location'
 require 'radix_enumerator'
 require 'string_ext'
 
-class GridSquare
+module GridSquare
   attr_reader :grid_reference, :origin
 
   # location can be a string containing a GS reference or a pair
