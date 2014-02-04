@@ -1,5 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 gem "rspec"
 gem "rspec-given"
 gem "rake"
-
