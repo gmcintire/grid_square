@@ -2,7 +2,7 @@
 
 Calculate between GridSquare references and latitude/longitude.
 
-[![Build Status](https://secure.travis-ci.org/gmcintire/grid_square.png?branch=master)](https://travis-ci.org/gmcintire/grid_square)
+[![Build Status](https://secure.travis-ci.org/hamli/grid_square.png?branch=master)](https://travis-ci.org/hamli/grid_square)
 [![Code Climate](https://codeclimate.com/github/hamli/grid_square.png)](https://codeclimate.com/github/hamli/grid_square)
 
 ```
